@@ -1306,7 +1306,7 @@ a:hover, a:active, a:focus {
 }
 
 .item-box:hover .item-mask .item-caption {
-  bottom: 30px;
+  top: 15px;
   opacity: 1;
 }
 
