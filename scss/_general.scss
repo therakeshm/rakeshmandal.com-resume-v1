@@ -12,6 +12,9 @@ body {
   overflow-x: hidden;
   font-size: $font-size-base;
   background-color: $bg-body;
+  background: -webkit-linear-gradient(top, #EAF0F7, #DFEEFF);
+  background: -moz-linear-gradient(top, #EAF0F7, #DFEEFF);
+  background: linear-gradient(to bottom, #EAF0F7, #DFEEFF);
   font-family: $font-primary;
   color: $gray-700;
   display: flex;
