@@ -16,4 +16,4 @@ jobs:
           server: ftp.rakeshmandal.com
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
-          server-dir: /pubic_html/resume.rakeshmandal.com/
+          server-dir: pubic_html/resume.rakeshmandal.com/
